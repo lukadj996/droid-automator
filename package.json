@@ -1,0 +1,31 @@
+{
+  "name": "droid-automator",
+  "version": "1.0.0",
+  "description": "A Node.js module for automating tasks and executing test cases on Android devices using ADB and UI Automator.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Luka Djordjevic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukadj996/droid-automator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukadj996/droid-automator/issues"
+  },
+  "homepage": "https://github.com/lukadj996/droid-automator#readme",
+  "keywords": [
+    "droid",
+    "android",
+    "automator",
+    "adb",
+    "testing",
+    "uiautomator"
+  ],
+  "dependencies": {
+    "debug": "^4.3.4"
+  }
+}
